@@ -4,15 +4,15 @@
     color: black;
 }
 .speech:hover{
-    color: darkgray;
+    color: red;
 }
 .stage-direction{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: small;
-    color:white;
+    color: orangered;
 }
 .stage-direction:hover{
-    color: violet;
+    color: rgb(233, 21, 233);
 }
 .name{
     font-family: monospace;
@@ -23,8 +23,8 @@
     color: yellow;
 }
 .LORD_ILLINGWORTH{
-    color: seagreen;
+    color: rgb(15, 252, 7);
 }
 .GERALD{
-    color: olivedrab;
+    color: rgb(162, 235, 16);
 }
