@@ -28,3 +28,24 @@
 .GERALD{
     color:maroon;
 }
+
+
+
+                table{
+                    border: darkred;
+                    text-align: left;
+                    color: rgb(41, 2, 73);
+                    border:1px solid black;
+                }
+                th{
+                    border: 1px rgb(7, 201, 7);
+                    text-align: left;
+                    color: rgb(228, 228, 17);
+                    border: 1px solid rgb(90, 182, 205);
+                }
+                td{
+                    border: 1px rgb(205, 120, 50);
+                    text-align: left;
+                    color: teal;
+                    border: 1px solid violet;
+                }
