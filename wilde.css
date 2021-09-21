@@ -1,0 +1,30 @@
+.speech{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    color: black;
+}
+.speech:hover{
+    color: darkgray;
+}
+.stage-direction{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: small;
+    color:white;
+}
+.stage-direction:hover{
+    color: violet;
+}
+.name{
+    font-family: monospace;
+    font-size: large;
+    color: tomato;
+}
+.name:hover{
+    color: yellow;
+}
+.LORD_ILLINGWORTH{
+    color: seagreen;
+}
+.GERALD{
+    color: olivedrab;
+}
